@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on building dapps
-- 📫 How to reach me >>> chotasaotshi@gmail.com
+- 📫 How to reach me >>> chotasatoshi@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I am also a youtuber
 
